@@ -4,7 +4,6 @@ import './App.css';
 //require('./polyfill/polyfill.js')
 
 function App() {
-  console.log("111222")
   debugger
   
   return (
